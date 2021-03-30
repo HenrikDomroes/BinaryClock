@@ -1,5 +1,5 @@
 # BinaryClock
-simple binary clock without displaying seconds unsing arduino nano every
+simple binary clock (no seconds) using Arduino nano and RTC DS3231
 
 Used a simple image frame as a housing. Clock is powered via microUSB directly into the arduino nano every.
 To build, simply connect RTC, Arcuino and LEDs with resistors and buttons according to schematic.
